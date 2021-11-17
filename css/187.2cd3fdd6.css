@@ -1,0 +1,1 @@
+.new-tweet textarea{font-size:19px;line-height:1.4!important}@media screen and (max-width:320px){.new-tweet textarea{font-size:16px}}.divider{border-bottom:1px solid #e0e0e0;border-color:#e0e0e0 currentcolor;border-top:1px solid #e0e0e0}.tweet:not(:first-child){border-top:1px solid #0000001f}.tweet-content{white-space:pre-line}.tweet-icons{margin-left:-5px}
